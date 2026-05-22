@@ -1,198 +1,129 @@
-Fri May 22 09:37:06 UTC 2026 CPU check done
-Fri May 22 09:37:17 UTC 2026 CPU check done
-Fri May 22 09:37:28 UTC 2026 CPU check done
-Fri May 22 09:37:40 UTC 2026 CPU check done
-Fri May 22 09:37:51 UTC 2026 CPU check done
-Fri May 22 09:38:03 UTC 2026 CPU check done
-Fri May 22 09:38:14 UTC 2026 CPU check done
-Fri May 22 09:38:25 UTC 2026 CPU check done
-Fri May 22 09:38:37 UTC 2026 CPU check done
-Fri May 22 09:38:48 UTC 2026 CPU check done
-Fri May 22 09:38:59 UTC 2026 CPU check done
-Fri May 22 09:39:10 UTC 2026 CPU check done
-Test log entry
-Fri May 22 09:39:22 UTC 2026 CPU check done
-Fri May 22 09:39:33 UTC 2026 CPU check done
-Fri May 22 09:39:44 UTC 2026 CPU check done
-Fri May 22 09:39:56 UTC 2026 CPU check done
-Fri May 22 09:40:07 UTC 2026 CPU check done
-Fri May 22 09:40:19 UTC 2026 CPU check done
-Fri May 22 09:40:30 UTC 2026 CPU check done
-Fri May 22 09:40:41 UTC 2026 CPU check done
-Fri May 22 09:40:52 UTC 2026 CPU check done
-Fri May 22 09:41:04 UTC 2026 CPU check done
-Fri May 22 09:41:15 UTC 2026 CPU check done
-Fri May 22 09:41:26 UTC 2026 CPU check done
-Fri May 22 09:41:38 UTC 2026 CPU check done
-Fri May 22 09:41:49 UTC 2026 CPU check done
-Fri May 22 09:42:01 UTC 2026 CPU check done
-Fri May 22 09:42:12 UTC 2026 CPU check done
-Fri May 22 09:42:23 UTC 2026 CPU check done
-Fri May 22 09:42:35 UTC 2026 CPU check done
-Fri May 22 09:42:46 UTC 2026 CPU check done
-Fri May 22 09:42:57 UTC 2026 CPU check done
-Fri May 22 09:46:16 UTC 2026 AUTO-HEAL: Restarted dummy_service.sh
-Fri May 22 09:49:38 UTC 2026 AUTO-HEAL: Restarted dummy_service.sh
-Fri May 22 09:49:57 UTC 2026 AUTO-HEAL: Restarted dummy_service.sh
-Fri May 22 09:57:22 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 09:57:34 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 09:57:57 UTC 2026 CPU check done
-Fri May 22 09:57:58 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 09:58:09 UTC 2026 CPU check done
-Fri May 22 09:58:10 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 09:58:21 UTC 2026 CPU check done
-Fri May 22 09:58:21 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 09:58:33 UTC 2026 CPU check done
-Fri May 22 09:58:33 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 09:58:45 UTC 2026 CPU check done
-Fri May 22 09:58:45 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 09:58:56 UTC 2026 CPU check done
-Fri May 22 09:58:56 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 09:59:08 UTC 2026 CPU check done
-Fri May 22 09:59:08 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 09:59:20 UTC 2026 CPU check done
-Fri May 22 09:59:20 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 09:59:31 UTC 2026 CPU check done
-Fri May 22 09:59:32 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 09:59:43 UTC 2026 CPU Usage: 11.5%
-Fri May 22 09:59:43 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 09:59:54 UTC 2026 CPU Usage: 25.9%
-Fri May 22 09:59:54 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:00:05 UTC 2026 CPU Usage: 0%
-Fri May 22 10:00:05 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:00:16 UTC 2026 CPU Usage: 18.2%
-Fri May 22 10:00:16 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:00:27 UTC 2026 CPU Usage: 13.6%
-Fri May 22 10:00:27 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:00:38 UTC 2026 CPU Usage: 13%
-Fri May 22 10:00:38 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:00:49 UTC 2026 CPU Usage: 25.9%
-Fri May 22 10:00:49 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:01:00 UTC 2026 CPU Usage: 0%
-Fri May 22 10:01:00 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:01:11 UTC 2026 CPU Usage: 20%
-Fri May 22 10:01:12 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:01:22 UTC 2026 CPU Usage: 0%
-Fri May 22 10:01:22 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:01:33 UTC 2026 CPU Usage: 0%
-Fri May 22 10:01:34 UTC 2026 AUTO-HEAL: Restarted dummy_service.sh
-Fri May 22 10:01:44 UTC 2026 CPU Usage: 5.6%
-Fri May 22 10:01:45 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:01:56 UTC 2026 CPU Usage: 16%
-Fri May 22 10:01:56 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:02:07 UTC 2026 CPU Usage: 9%
-Fri May 22 10:02:07 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:02:18 UTC 2026 CPU Usage: 5.9%
-Fri May 22 10:02:18 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:02:29 UTC 2026 CPU Usage: 8.6%
-Fri May 22 10:02:29 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:02:40 UTC 2026 CPU Usage: 0%
-Fri May 22 10:02:40 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:02:51 UTC 2026 CPU Usage: 4.5%
-Fri May 22 10:02:51 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:03:02 UTC 2026 CPU Usage: 5.6%
-Fri May 22 10:03:02 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:03:13 UTC 2026 CPU Usage: 27.3%
-Fri May 22 10:03:13 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:03:24 UTC 2026 CPU Usage: 25%
-Fri May 22 10:03:24 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:03:35 UTC 2026 CPU Usage: 29.2%
-Fri May 22 10:03:36 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:03:46 UTC 2026 CPU Usage: 9.6%
-Fri May 22 10:03:47 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:03:57 UTC 2026 CPU Usage: 20.8%
-Fri May 22 10:03:58 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:04:08 UTC 2026 CPU Usage: 9.6%
-Fri May 22 10:04:09 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:04:19 UTC 2026 CPU Usage: 5.9%
-Fri May 22 10:04:20 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:04:30 UTC 2026 CPU Usage: 17.4%
-Fri May 22 10:04:31 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:04:41 UTC 2026 CPU Usage: 9.6%
-Fri May 22 10:04:42 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:04:52 UTC 2026 CPU Usage: 34.5%
-Fri May 22 10:04:53 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:05:03 UTC 2026 CPU Usage: 5.6%
-Fri May 22 10:05:04 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:05:14 UTC 2026 CPU Usage: 15.8%
-Fri May 22 10:05:15 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:05:25 UTC 2026 CPU Usage: 5.3%
-Fri May 22 10:05:26 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:05:37 UTC 2026 CPU Usage: 41.1%
-Fri May 22 10:05:37 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:05:48 UTC 2026 CPU Usage: 19.2%
-Fri May 22 10:05:48 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:05:59 UTC 2026 CPU Usage: 10%
-Fri May 22 10:05:59 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:06:10 UTC 2026 CPU Usage: 4.5%
-Fri May 22 10:06:11 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:06:21 UTC 2026 CPU Usage: 16.7%
-Fri May 22 10:06:22 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:06:33 UTC 2026 CPU Usage: 20.7%
-Fri May 22 10:06:33 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:06:44 UTC 2026 CPU Usage: 4.5%
-Fri May 22 10:06:44 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:06:55 UTC 2026 CPU Usage: 21.7%
-Fri May 22 10:06:55 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:07:06 UTC 2026 CPU Usage: 13.6%
-Fri May 22 10:07:06 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:07:16 UTC 2026 CPU Usage: 15.3%
-Fri May 22 10:07:17 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:07:27 UTC 2026 CPU Usage: 20%
-Fri May 22 10:07:28 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:07:38 UTC 2026 CPU Usage: 37.5%
-Fri May 22 10:07:39 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:07:49 UTC 2026 CPU Usage: 18.1%
-Fri May 22 10:07:50 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:08:00 UTC 2026 CPU Usage: 5%
-Fri May 22 10:08:00 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:08:11 UTC 2026 CPU Usage: 21.4%
-Fri May 22 10:08:11 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:08:22 UTC 2026 CPU Usage: 9%
-Fri May 22 10:08:22 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:08:33 UTC 2026 CPU Usage: 0%
-Fri May 22 10:08:33 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:08:44 UTC 2026 CPU Usage: 5%
-Fri May 22 10:08:44 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:08:55 UTC 2026 CPU Usage: 10%
-Fri May 22 10:08:56 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:09:06 UTC 2026 CPU Usage: 20%
-Fri May 22 10:09:07 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:09:17 UTC 2026 CPU Usage: 20%
-Fri May 22 10:09:18 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:09:28 UTC 2026 CPU Usage: 11.8%
-Fri May 22 10:09:29 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:09:39 UTC 2026 CPU Usage: 19.1%
-Fri May 22 10:09:40 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:09:50 UTC 2026 CPU Usage: 15%
-Fri May 22 10:09:51 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:10:02 UTC 2026 CPU Usage: 21.7%
-Fri May 22 10:10:02 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:10:13 UTC 2026 CPU Usage: 26.1%
-Fri May 22 10:10:13 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:10:24 UTC 2026 CPU Usage: 32%
-Fri May 22 10:10:24 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:10:35 UTC 2026 CPU Usage: 5.3%
-Fri May 22 10:10:35 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:10:46 UTC 2026 CPU Usage: 39.3%
-Fri May 22 10:10:46 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:10:57 UTC 2026 CPU Usage: 16.7%
-Fri May 22 10:10:57 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:11:08 UTC 2026 CPU Usage: 13.6%
-Fri May 22 10:11:08 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:11:19 UTC 2026 CPU Usage: 0%
-Fri May 22 10:11:19 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:11:30 UTC 2026 CPU Usage: 10%
-Fri May 22 10:11:30 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:11:41 UTC 2026 CPU Usage: 7.4%
-Fri May 22 10:11:41 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:11:52 UTC 2026 CPU Usage: 5.6%
-Fri May 22 10:11:52 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:12:03 UTC 2026 CPU Usage: 20%
-Fri May 22 10:12:03 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:12:14 UTC 2026 CPU Usage: 22.2%
-Fri May 22 10:12:14 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:12:25 UTC 2026 CPU Usage: 17.3%
-Fri May 22 10:12:25 UTC 2026 SERVICE OK: dummy_service.sh running
-Fri May 22 10:12:36 UTC 2026 CPU Usage: 4.8%
-Fri May 22 10:12:36 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:25:48 UTC 2026 CPU Usage: 10%
+Fri May 22 10:25:48 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:25:58 UTC 2026 CPU Usage: 0%
+Fri May 22 10:25:58 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:26:08 UTC 2026 CPU Usage: 0%
+Fri May 22 10:26:08 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:26:19 UTC 2026 CPU Usage: 66.7%
+Fri May 22 10:26:19 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:26:29 UTC 2026 CPU Usage: 11.2%
+Fri May 22 10:26:29 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:26:40 UTC 2026 CPU Usage: 0%
+Fri May 22 10:26:40 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:26:50 UTC 2026 CPU Usage: 0%
+Fri May 22 10:26:50 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:27:00 UTC 2026 CPU Usage: 0%
+Fri May 22 10:27:00 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:27:11 UTC 2026 CPU Usage: 31.3%
+Fri May 22 10:27:11 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:27:21 UTC 2026 CPU Usage: 18.2%
+Fri May 22 10:27:21 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:27:31 UTC 2026 CPU Usage: 0%
+Fri May 22 10:27:32 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:27:42 UTC 2026 CPU Usage: 5.3%
+Fri May 22 10:27:42 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:27:53 UTC 2026 CPU Usage: 12.5%
+Fri May 22 10:27:53 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:28:03 UTC 2026 CPU Usage: 9.6%
+Fri May 22 10:28:03 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:28:14 UTC 2026 CPU Usage: 0%
+Fri May 22 10:28:14 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:28:24 UTC 2026 CPU Usage: 0%
+Fri May 22 10:28:24 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:28:35 UTC 2026 CPU Usage: 0%
+Fri May 22 10:28:35 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:28:45 UTC 2026 CPU Usage: 0%
+Fri May 22 10:28:45 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:28:55 UTC 2026 CPU Usage: 5.3%
+Fri May 22 10:28:55 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:29:06 UTC 2026 CPU Usage: 50%
+Fri May 22 10:29:06 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:29:16 UTC 2026 CPU Usage: 20%
+Fri May 22 10:29:16 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:29:28 UTC 2026 CPU Usage: 2%
+Fri May 22 10:29:28 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:29:38 UTC 2026 CPU Usage: 10%
+Fri May 22 10:29:38 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:29:49 UTC 2026 CPU Usage: 0%
+Fri May 22 10:29:49 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:29:59 UTC 2026 CPU Usage: 5.3%
+Fri May 22 10:29:59 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:30:09 UTC 2026 CPU Usage: 5.9%
+Fri May 22 10:30:10 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:30:20 UTC 2026 CPU Usage: 5.6%
+Fri May 22 10:30:20 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:30:30 UTC 2026 CPU Usage: 16.7%
+Fri May 22 10:30:30 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:30:41 UTC 2026 CPU Usage: 10%
+Fri May 22 10:30:41 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:30:51 UTC 2026 CPU Usage: 9.6%
+Fri May 22 10:30:51 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:31:01 UTC 2026 CPU Usage: 9.6%
+Fri May 22 10:31:01 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:31:12 UTC 2026 CPU Usage: 0%
+Fri May 22 10:31:12 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:31:22 UTC 2026 CPU Usage: 0%
+Fri May 22 10:31:22 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:31:33 UTC 2026 CPU Usage: 10%
+Fri May 22 10:31:33 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:31:43 UTC 2026 CPU Usage: 0%
+Fri May 22 10:31:43 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:31:53 UTC 2026 CPU Usage: 5%
+Fri May 22 10:31:53 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:32:04 UTC 2026 CPU Usage: 0%
+Fri May 22 10:32:04 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:32:14 UTC 2026 CPU Usage: 10.7%
+Fri May 22 10:32:14 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:32:25 UTC 2026 CPU Usage: 36.9%
+Fri May 22 10:32:25 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:32:35 UTC 2026 CPU Usage: 8.6%
+Fri May 22 10:32:35 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:32:46 UTC 2026 CPU Usage: 14.3%
+Fri May 22 10:32:46 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:32:56 UTC 2026 CPU Usage: 0%
+Fri May 22 10:32:56 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:33:06 UTC 2026 CPU Usage: 0%
+Fri May 22 10:33:06 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:33:17 UTC 2026 CPU Usage: 5.3%
+Fri May 22 10:33:17 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:33:27 UTC 2026 CPU Usage: 15.8%
+Fri May 22 10:33:27 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:33:37 UTC 2026 CPU Usage: 17.7%
+Fri May 22 10:33:38 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:33:48 UTC 2026 CPU Usage: 5.3%
+Fri May 22 10:33:48 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:33:58 UTC 2026 CPU Usage: 0%
+Fri May 22 10:33:58 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:34:09 UTC 2026 CPU Usage: 15.8%
+Fri May 22 10:34:09 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:34:19 UTC 2026 CPU Usage: 0%
+Fri May 22 10:34:19 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:34:29 UTC 2026 CPU Usage: 14.3%
+Fri May 22 10:34:29 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:34:40 UTC 2026 CPU Usage: 5.9%
+Fri May 22 10:34:40 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:34:50 UTC 2026 CPU Usage: 9.6%
+Fri May 22 10:34:50 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:35:00 UTC 2026 CPU Usage: 9.6%
+Fri May 22 10:35:00 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:35:11 UTC 2026 CPU Usage: 10%
+Fri May 22 10:35:11 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:35:21 UTC 2026 CPU Usage: 16.7%
+Fri May 22 10:35:21 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:35:32 UTC 2026 CPU Usage: 17.4%
+Fri May 22 10:35:32 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:35:42 UTC 2026 CPU Usage: 4.8%
+Fri May 22 10:35:42 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:35:52 UTC 2026 CPU Usage: 5%
+Fri May 22 10:35:52 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:36:03 UTC 2026 CPU Usage: 9.6%
+Fri May 22 10:36:03 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:36:13 UTC 2026 CPU Usage: 4.8%
+Fri May 22 10:36:13 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:36:23 UTC 2026 CPU Usage: 5.3%
+Fri May 22 10:36:23 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:36:34 UTC 2026 CPU Usage: 8.6%
+Fri May 22 10:36:34 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:36:44 UTC 2026 CPU Usage: 5.3%
+Fri May 22 10:36:44 UTC 2026 SERVICE OK: dummy_service.sh running
+Fri May 22 10:36:55 UTC 2026 SERVICE OK: dummy_service.sh running
